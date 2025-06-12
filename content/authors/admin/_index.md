@@ -74,7 +74,7 @@ work:
     date_end: 2025-10-01
     summary: |
       - Create and implement new machine learning techniques for automatic species classification in camera trap images: model calibration, behavior prediction, and leveraging sequences to enrich contextual understanding.
-      - Contribute to the improvement and development of the [DeepFaune](https://www.deepfaune.cnrs.fr/) software.
+      - Contribute to the improvement and development of the DeepFaune software.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
