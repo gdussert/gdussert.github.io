@@ -51,7 +51,7 @@ education:
     institution: ENSTA Paris
     date_start: 2017-09-01
     date_end: 2021-09-01
-  - area: CPGE: MPSI - MP*
+  - area: CPGE\: MPSI - MP*
     institution: Lycée Pierre de Fermat, Toulouse
     date_start: 2015-09-01
     date_end: 2017-09-01
