@@ -69,7 +69,7 @@ work:
     date_end: 2021-10-01
     summary: |
       - BLABLA
-  - position: Research internship
+  - position: Research Internship
     company_name: University Lyon 1 - CREATIS
     date_start: 2022-09-30
     date_end: 2021-10-01
