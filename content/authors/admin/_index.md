@@ -42,61 +42,39 @@ interests:
   - Ecology
   - Artificial Intelligence
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+2020 - 2021 Master MVA I ENS Paris-Saclay
+Master Mathématiques, Vision, Apprentissage 
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+2017 - 2021 Cycle Ingénieur I ENSTA Paris 
+Diplômé du cursus ingénieur de l'ENSTA (École Nationale Supérieure des Techniques Avancées), parcours « Science de l'optimisation et des données » 
+
+2015 - 2017 Classes préparatoires aux grandes écoles I Lycée Pierre de Fermat - Toulouse
+Filère MPSI puis MP* option informatique 
+
+
+education:
+  - area: M.S. MVA (Mathematics, Vision, Learning)
+    institution: ENS Paris-Saclay
+    date_start: 2020-09-01
+    date_end: 2021-09-01
+  - area: Engineer degree in Applied Mathematics
+    institution: ENSTA Paris
+    date_start: 2017-09-01
+    date_end: 2021-09-01
+  - area: CPGE: MPSI - MP*
+    institution: Lycée Pierre de Fermat, Toulouse
+    date_start: 2015-09-01
+    date_end: 2017-09-01
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: PhD Student
+    company_name: University Lyon 1
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-10-01
+    date_end: 2025-10-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Create and implement new machine learning techniques for automatic species classification in camera trap images: model calibration, behavior prediction, and leveraging sequences to enrich contextual understanding.
+      - Contribute to the improvement and development of the [DeepFaune](https://www.deepfaune.cnrs.fr/) software.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
