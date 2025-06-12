@@ -1,14 +1,10 @@
 ---
 # Display name
-title: Dussert Gaspard
+title: Gaspard Dussert
 
 # Full name (for SEO)
 first_name: Gaspard
 last_name: Dussert
-
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,31 +13,29 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Université Lyon1
+    url: http://www.univ-lyon1.fr/
+  - name: LBBE
+    url: https://lbbe-web.univ-lyon1.fr/fr
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gaspard.dussert@univ-lyon1.fr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/gdussert
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/gaspard-dussert/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=yUj8WucAAAAJ&hl=fr
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0003-3833-8093
 
 interests:
   - Artificial Intelligence
