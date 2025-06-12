@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: moutain.jpg
           filters:
-            brightness: 1.0
+            brightness: -1.0
           size: cover
           position: center
           parallax: false
