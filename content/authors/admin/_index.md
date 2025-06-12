@@ -38,9 +38,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0003-3833-8093
 
 interests:
+  - Computer Vision
+  - Ecology
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
