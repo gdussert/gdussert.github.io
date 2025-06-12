@@ -57,14 +57,25 @@ education:
     date_end: 2017-09-01
 work:
   - position: PhD Student
-    company_name: University Lyon 1
-    company_url: ''
-    company_logo: ''
+    company_name: University Lyon 1 - LBBE
     date_start: 2022-10-01
     date_end: 2025-10-01
     summary: |
-      - Create and implement new machine learning techniques for automatic species classification in camera trap images: model calibration, behavior prediction, and leveraging sequences to enrich contextual understanding.
-      - Contribute to the improvement and development of the DeepFaune software.
+      - Create new deep learning techniques for automatic species classification in camera trap images: score calibration, behavior prediction and leveraging sequence context
+      - Contribute to the improvement and development of the [DeepFaune](https://deepfaune.cnrs.fr) software.
+  - position: Research Engineer
+    company_name: CNRS - CREATIS
+    date_start: 2022-09-30
+    date_end: 2021-10-01
+    summary: |
+      - BLABLA
+  - position: Research internship
+    company_name: University Lyon 1 - CREATIS
+    date_start: 2022-09-30
+    date_end: 2021-10-01
+    summary: |
+      - BLABLA
+  
 ---
 
 ## About Me
