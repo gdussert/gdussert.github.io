@@ -65,8 +65,8 @@ work:
     summary: |
       - Create and implement new machine learning techniques for automatic species classification in camera trap images: model calibration, behavior prediction, and leveraging sequences to enrich contextual understanding.
       - Contribute to the improvement and development of the DeepFaune software.
-
+---
 
 ## About Me
 
-I am a Foret Mixte expert
+I am a Foret Mixte expert.
