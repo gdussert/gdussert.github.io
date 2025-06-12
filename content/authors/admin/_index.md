@@ -42,16 +42,6 @@ interests:
   - Ecology
   - Artificial Intelligence
 
-2020 - 2021 Master MVA I ENS Paris-Saclay
-Master Mathématiques, Vision, Apprentissage 
-
-2017 - 2021 Cycle Ingénieur I ENSTA Paris 
-Diplômé du cursus ingénieur de l'ENSTA (École Nationale Supérieure des Techniques Avancées), parcours « Science de l'optimisation et des données » 
-
-2015 - 2017 Classes préparatoires aux grandes écoles I Lycée Pierre de Fermat - Toulouse
-Filère MPSI puis MP* option informatique 
-
-
 education:
   - area: M.S. MVA (Mathematics, Vision, Learning)
     institution: ENS Paris-Saclay
