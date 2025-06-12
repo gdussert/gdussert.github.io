@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Dussert Gaspard
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gaspard
+last_name: Dussert
 
 # Status emoji
 status:
