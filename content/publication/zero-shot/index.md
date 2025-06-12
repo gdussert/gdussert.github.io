@@ -11,7 +11,7 @@ date: "2025-05-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-05-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,24 +19,19 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Methods in Ecology and Evolution"
+publication_short: "MEE"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Understanding the behaviour of animals in their natural habitats is critical to ecology and conservation. Camera traps are a powerful tool to collect such data with minimal disturbance. They however produce a very large quantity of images, which can make human-based annotation cumbersome or even impossible. While automated species identification with artificial intelligence has made impressive progress, the automatic classification of animal behaviours in camera trap images remains a developing field. Here, we explore the potential of foundation models, specifically vision-language models (VLMs), to perform this task without the need to first train a model, which would require some level of human-based annotation. Using two datasets, of alpine and African fauna, we investigate the zero-shot capabilities of different kinds of recent VLMs to predict behaviours and estimate behaviour-specific diel activity patterns in three ungulate species.By comparing our predictions to behaviours annotated by participatory science, our results show that using these automatic methods, it is possible to achieve F1-score as high as 86.39% in behaviour classification and produce activity patterns that closely align with those derived from participatory science data (overlap indexes between 84% and 90%).These findings demonstrate the potential of foundation models and vision-language models in ecological research. Ecologists are encouraged to adopt these new methods and leverage their full capabilities to facilitate ecological studies.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
+url_pdf: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.70059
+url_code: ''
+url_dataset: 'https://zenodo.org/records/10925926'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -46,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
