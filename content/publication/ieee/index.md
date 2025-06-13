@@ -1,5 +1,5 @@
 ---
-title: 'Learning to segment prostate cancer by aggressiveness from scribbles in bi-parametric MRI'
+title: 'Perfusion imaging in deep prostate cancer detection from mp-MRI: can we take advantage of it?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -10,7 +10,7 @@ authors:
 - Carole Lartizien
 
 date: '2022-01-01T00:00:00Z'
-doi: 'https://doi.org/10.1117/12.2607502'
+doi: '10.1109/ISBI52829.2022.9761616'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-04-04T00:00:00Z'
@@ -21,7 +21,7 @@ publishDate: '2022-04-04T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: SPIE Medical Imaging
+publication: 'IEEE 19th International Symposium on Biomedical Imaging (ISBI)'
 
 # Display this page in the Featured widget?
 featured: false
@@ -31,7 +31,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12032/120320Q/Learning-to-segment-prostate-cancer-by-aggressiveness-from-scribbles-in/10.1117/12.2607502.short?tab=ArticleLink'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9761616'
 url_code: ''
 url_dataset: ''
 url_poster: ''
