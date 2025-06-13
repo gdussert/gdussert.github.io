@@ -64,6 +64,7 @@ work:
     summary: |
       - Create new deep learning techniques for automatic species classification in camera trap images: score calibration, behavior prediction and leveraging sequence context
       - Contribute to the improvement and development of the [DeepFaune](https://www.deepfaune.cnrs.fr) software.
+      - PhD supervisors: [S. Dray](https://sdray.github.io/), [V. Miele](https://vmiele.gitlab.io/) and [S. Chamaillé-Jammes](https://simonchamaillejammes.mystrikingly.com/)
   - position: Research Engineer
     company_name: CNRS - CREATIS
     date_start: 2022-09-30
