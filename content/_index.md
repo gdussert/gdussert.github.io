@@ -67,6 +67,10 @@ sections:
         folders:
           - project
         exclude_featured: false
+      archive:
+        enable: true
+        text: See all projects
+        link: projects/
     design:
       view: article-grid
       columns: 2
