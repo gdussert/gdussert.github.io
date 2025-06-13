@@ -59,9 +59,9 @@ sections:
     design:
       view: citation
   - block: collection
-    id: proj
     content:
       title: Recent Projects
+      text: ""
       count: 2
       filters:
         folders:
