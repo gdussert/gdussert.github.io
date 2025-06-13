@@ -53,7 +53,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
-      count: 3
+      count: 4
       filters:
         folders:
           - publication
