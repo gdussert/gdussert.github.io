@@ -4,14 +4,21 @@ title: ScienceSandwich IA et piège photo : comment reconnaître la faune et son
 event: ScienceSandwich
 event_url: https://blog.creamontblanc.org/?p=5895
 
-location: CAF de Chamonix
+location: Hugo Blox Builder HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: Dans cette présentation, nous verrons comment l’intelligence artificielle (IA) permet d’automatiser l’analyse de ces images. Dans le cadre de ma thèse et de l’initiative DeepFaune, nous développons de nouvelles méthodes et un outil destiné à améliorer la classification automatique des espèces sur les images issues des pièges photo. En collaboration avec le CREA Mont-Blanc, nous avons également mis au point une nouvelle approche pour classifier automatiquement le comportement des individus observés.
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-12-03T12:30:00Z'
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -23,7 +30,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -34,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com'
 url_pdf: ''
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=h2CRYcM490M'
+url_slides: 'https://slideshare.net'
+url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
