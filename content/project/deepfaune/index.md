@@ -1,8 +1,7 @@
 ---
 title: DeepFaune
-date: 2022-10-01
-external_link: https://deepfaune.cnrs.fr
-weight: 1
+date: 2025-01-01
+external_link: https://www.deepfaune.cnrs.fr/
 ---
 
 DeepFaune description.

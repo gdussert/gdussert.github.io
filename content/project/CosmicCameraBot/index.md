@@ -1,6 +1,6 @@
 ---
 title: Cosmic Camera Bot
-date: 2023-02-01
+date: 2023-01-01
 external_link: https://xrnz.itch.io/cosmicbot/
 ---
 
