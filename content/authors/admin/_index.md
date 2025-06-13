@@ -40,6 +40,7 @@ profiles:
 interests:
   - Computer Vision
   - Ecology
+  - Medical Imaging
   - Artificial Intelligence
 
 education:
@@ -68,13 +69,15 @@ work:
     date_start: 2022-09-30
     date_end: 2021-10-01
     summary: |
-      - BLABLA
+      - Develop a predictive model of consciousness state and 6-month outcomes for coma patients using multiple medical imaging modalities. 
+      - Utilized advanced AI methods, including transformers and self-supervised learning.
   - position: Research Internship
     company_name: University Lyon 1 - CREATIS
     date_start: 2022-09-30
     date_end: 2021-10-01
     summary: |
-      - BLABLA
+      - Develop a model for segmentation and characterization of prostate cancer in multiparametric MRI using weak annotations (point-based labels).
+      - Investigated non-standard loss functions: modeling inter-class correlations and incorporating constraints on lesion size.
   
 ---
 
