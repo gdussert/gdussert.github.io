@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: hirondelle.jpg
+          filename: hespe.jpg
           size: cover
           position: center
           parallax: false
