@@ -63,7 +63,7 @@ work:
     date_end: 2025-10-01
     summary: |
       - Create new deep learning techniques for automatic species classification in camera trap images: score calibration, behavior prediction and leveraging sequence context
-      - Contribute to the improvement and development of the [DeepFaune](https://deepfaune.cnrs.fr) software.
+      - Contribute to the improvement and development of the [DeepFaune](https://www.deepfaune.cnrs.fr) software.
   - position: Research Engineer
     company_name: CNRS - CREATIS
     date_start: 2022-09-30
