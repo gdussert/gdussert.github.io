@@ -65,7 +65,7 @@ sections:
       count: 2
       filters:
         folders:
-          - projects
+          - project
         exclude_featured: false
     design:
       view: article-grid
