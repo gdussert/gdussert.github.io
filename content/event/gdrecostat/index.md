@@ -1,17 +1,17 @@
 ---
-title: 'ScienceSandwich : IA et piège photo : comment reconnaître la faune et son comportement ?'
+title: '9èmes journées du GDR EcoStat'
 
-event: ScienceSandwich
-event_url: https://blog.creamontblanc.org/?p=5895
+event: Journées du GDR EcoStat
+event_url: https://gdrecostat2023.sciencesconf.org/?lang=fr
 
-location: CAF de Chamonix
+location: Villeurbanne
 
 summary: ''
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-12-03T12:30:00Z'
+date: '2023-10-09T12:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -37,7 +37,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=h2CRYcM490M'
+url_video: 'https://www.youtube.com/watch?v=DKIdHMGETTk&t=5320s'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -55,4 +55,4 @@ projects:
   - example
 ---
 
-Dans cette présentation, nous verrons comment l’intelligence artificielle (IA) permet d’automatiser l’analyse de ces images. Dans le cadre de ma thèse et de l’initiative DeepFaune, nous développons de nouvelles méthodes et un outil destiné à améliorer la classification automatique des espèces sur les images issues des pièges photo. En collaboration avec le CREA Mont-Blanc, nous avons également mis au point une nouvelle approche pour classifier automatiquement le comportement des individus observés.
+Calibration du score de confiance des modèles de classification pour les pièges photos
