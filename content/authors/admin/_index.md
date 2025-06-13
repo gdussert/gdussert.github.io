@@ -43,11 +43,11 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: M.S. MVA (Mathematics, Vision, Learning)
+  - area: M.Sc. MVA (Mathematics, Vision, Learning)
     institution: ENS Paris-Saclay
     date_start: 2020-09-01
     date_end: 2021-09-01
-  - area: Engineer degree in Applied Mathematics
+  - area: Engineering Degree in Applied Mathematics
     institution: ENSTA Paris
     date_start: 2017-09-01
     date_end: 2021-09-01
@@ -80,4 +80,4 @@ work:
 
 ## About Me
 
-I am a Foret Mixte expert.
+I am a Foret Mixte and Expedition 33 expert.
