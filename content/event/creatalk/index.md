@@ -1,5 +1,5 @@
 ---
-title: ScienceSandwich IA et piège photo : comment reconnaître la faune et son comportement ?
+title: 'ScienceSandwich IA et piège photo : comment reconnaître la faune et son comportement ?'
 
 event: ScienceSandwich
 event_url: https://blog.creamontblanc.org/?p=5895
