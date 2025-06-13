@@ -10,9 +10,9 @@ design:
 # Page sections
 sections:
   - block: collection
-    show_date: false
     content:
       title: Projects
+      show_date: false
       text: Some of my work and personnal projects.
       filters:
         folders:
