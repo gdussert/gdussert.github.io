@@ -2,7 +2,6 @@
 title: 'Projects'
 date: 2024-05-19
 type: landing
-show_date: false
 
 design:
   # Section spacing
@@ -11,6 +10,7 @@ design:
 # Page sections
 sections:
   - block: collection
+    show_date: false
     content:
       title: Projects
       text: Some of my work and personnal projects.
