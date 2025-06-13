@@ -59,13 +59,13 @@ sections:
     design:
       view: citation
   - block: collection
-    id: projects
+    id: proj
     content:
-      title: Featured Projects
+      title: Recent Projects
       count: 2
       filters:
         folders:
-          - project
+          - projects
         exclude_featured: false
     design:
       view: article-grid
