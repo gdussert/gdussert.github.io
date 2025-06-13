@@ -59,6 +59,17 @@ sections:
     design:
       view: citation
   - block: collection
+    id: projects
+    content:
+      title: Featured Projects
+      filters:
+        folders:
+          - project
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
