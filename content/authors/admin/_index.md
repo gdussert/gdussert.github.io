@@ -86,7 +86,7 @@ work:
 I'm a PhD Student at [Université Lyon 1](https://www.univ-lyon1.fr/) ([Biometry and Evolutionary Biology Lab, UMR 5558](https://lbbe-web.univ-lyon1.fr/fr)). I have a background in applied mathematics, statistics, machine learning and computer vision.
 {style="color: white"}
 
-In my PhD, I develop and implement novel methods for the automated analysis of camera trap images, leveraging deep learning to support ecological research. I’m also an active member of the [DeepFaune](https://www.deepfaune.cnrs.fr/) project, where I contribute to model training, data curation, and software development.
+In my PhD, I develop and implement new methods for the automated analysis of camera trap images, leveraging deep learning to support ecological research. I’m an active member of the [DeepFaune](https://www.deepfaune.cnrs.fr/) project, where I contribute to model training, data curation, and software development.
 {style="color: white"}
 
 Outside of research, I'm passionate about wildlife photography and naturalist activities.
