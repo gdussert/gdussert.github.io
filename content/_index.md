@@ -62,10 +62,11 @@ sections:
     id: projects
     content:
       title: Featured Projects
+      count: 2
       filters:
         folders:
           - project
-        featured_only: true
+        exclude_featured: false
     design:
       view: article-grid
       columns: 2
