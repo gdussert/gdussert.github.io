@@ -11,8 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Projects
-      text: Some of my work and personnal projects.
+      title: Some of my work and personnal projects.
       filters:
         folders:
           - project
@@ -20,5 +19,4 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
-      show_date: false
 ---
