@@ -6,7 +6,7 @@ authors:
 - Vincent Miele
 - Stéphane Dray
 date: "2024-06-16T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1002/rse2.412"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-01T00:00:00Z"

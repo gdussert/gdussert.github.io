@@ -8,7 +8,7 @@ authors:
 - Stéphane Dray
 - Simon Chamaillé-Jammes
 date: "2025-05-20T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1111/2041-210X.70059"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-20T00:00:00Z"

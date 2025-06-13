@@ -3,7 +3,7 @@ title: "The DeepFaune initiative: a collaborative effort towards the automatic i
 authors:
 - Noa Rigoudy
 - Gaspard Dussert
-- the DeepFaune consortium,
+- the DeepFaune consortium
 - Bruno Spataro
 - Vincent Miele
 - Simon Chamaillé-Jammes
