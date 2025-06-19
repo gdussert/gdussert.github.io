@@ -17,13 +17,13 @@ marketing:
     description: 'Gapard Dussert personnal website.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-NJCYC21HEN'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'ZsNnDtjoLIEnJPtqy8QBtjhZtJyaik3N4WomkzX4S-s'
     baidu: ''
 
 # Site header
