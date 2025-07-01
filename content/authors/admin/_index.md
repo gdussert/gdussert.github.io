@@ -38,10 +38,11 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0003-3833-8093
 
 interests:
+  - Artificial Intelligence
+  - Statistics
   - Computer Vision
   - Ecology
   - Medical Imaging
-  - Artificial Intelligence
 
 education:
   - area: M.Sc. MVA (Mathematics, Vision, Learning)
