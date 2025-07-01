@@ -39,10 +39,10 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Statistics
   - Computer Vision
   - Ecology
   - Medical Imaging
+  - Statistics
 
 education:
   - area: M.Sc. MVA (Mathematics, Vision, Learning)
