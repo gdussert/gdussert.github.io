@@ -45,6 +45,10 @@ interests:
   - Statistics
 
 education:
+  - area: PhD in Machine Learning
+    institution: Université Lyon 1
+    date_start: 2022-10-03
+    date_end: 2025-11-07
   - area: M.Sc. MVA (Mathematics, Vision, Learning)
     institution: ENS Paris-Saclay
     date_start: 2020-09-01
@@ -58,10 +62,13 @@ education:
     date_start: 2015-09-01
     date_end: 2017-09-01
 work:
+  - position: Research Engineer
+    company_name: CNRS
+    date_start: 2026-01-01
   - position: PhD Student
     company_name: University Lyon 1 - LBBE
     date_start: 2022-10-01
-    date_end: 2025-10-01
+    date_end: 2025-11-07
     summary: |
       - Create new deep learning techniques for automatic species classification in camera trap images: score calibration, behavior prediction and leveraging sequence context
       - Contribute to the improvement and development of the [DeepFaune](https://www.deepfaune.cnrs.fr) software.
@@ -85,10 +92,10 @@ work:
 
 ## About Me
 
-I'm a PhD Student at [Université Lyon 1](https://www.univ-lyon1.fr/) ([Biometry and Evolutionary Biology Lab, UMR 5558](https://lbbe-web.univ-lyon1.fr/fr)). I have a background in applied mathematics, statistics, machine learning and computer vision.
+I'm a Research Engineer at the [CNRS](https://www.cnrs.fr/) and working at the [Biometry and Evolutionary Biology Lab, UMR 5558](https://lbbe-web.univ-lyon1.fr/fr)). I have a background in applied mathematics, statistics, machine learning and computer vision.
 {style="color: white"}
 
-In my PhD, I develop and implement new methods for the automated analysis of camera trap images, leveraging deep learning to support ecological research. I’m an active member of the [DeepFaune](https://www.deepfaune.cnrs.fr/) project, where I contribute to model training, data curation, and software development.
+In my PhD, I developed and implemented new methods for the automated analysis of camera trap images, leveraging deep learning to support ecological research. I’m an active member of the [DeepFaune](https://www.deepfaune.cnrs.fr/) project, where I contribute to model training, data curation, and software development.
 {style="color: white"}
 
 Outside of research, I'm passionate about wildlife photography and naturalist activities.
