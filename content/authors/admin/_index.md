@@ -13,11 +13,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Université Lyon1
+  - name: CNRS
     url: http://www.univ-lyon1.fr/
   - name: LBBE
     url: https://lbbe-web.univ-lyon1.fr/fr
