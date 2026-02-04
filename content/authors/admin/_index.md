@@ -26,7 +26,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:gaspard.dussert@univ-lyon1.fr'
+    url: 'mailto:gaspard.dussert@cnrs.fr'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/gdussert
