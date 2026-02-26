@@ -62,9 +62,11 @@ education:
     date_start: 2015-09-01
     date_end: 2017-09-01
 work:
-  - position: Research Engineer
+  - position: Research Engineer (Permanent Position)
     company_name: CNRS
     date_start: 2026-01-01
+    summary: |
+      - Development and implementation of methods and tools for data analysis in ecology and evolution.
   - position: PhD Student
     company_name: University Lyon 1 - LBBE
     date_start: 2022-10-01
@@ -73,7 +75,7 @@ work:
       - Create new deep learning techniques for automatic species classification in camera trap images: score calibration, behavior prediction and leveraging sequence context
       - Contribute to the improvement and development of the [DeepFaune](https://www.deepfaune.cnrs.fr) software.
       - PhD supervisors: [S. Dray](https://sdray.github.io/), [V. Miele](https://vmiele.gitlab.io/) and [S. Chamaillé-Jammes](https://simonchamaillejammes.mystrikingly.com/)
-  - position: Research Engineer
+  - position: Research Engineer (Fixed-term Contract)
     company_name: CNRS - CREATIS
     date_start: 2022-09-30
     date_end: 2021-10-01
