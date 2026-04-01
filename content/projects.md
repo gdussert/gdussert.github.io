@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Some of my work and personnal projects.
-      count: 6
+      count: 60
       filters:
         folders:
           - project
